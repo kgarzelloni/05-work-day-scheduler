@@ -25,11 +25,9 @@ THEN the saved events persist
 ```
 
   ### The following is a screen shot displaying the appearance of the application
-
-![](/Users/karriegarzelloni/Desktop/fsf-projects/homework/05-work-day-scheduler/images/Screen Shot 2021-12-16 at 11.23.21 PM.png)
-
-![](images/Screen Shot 2021-12-16 at 11.23.21 PM.png)
+![screen shot](https://github.com/kgarzelloni/05-work-day-scheduler/blob/main/images/Screen%20Shot%202021-12-16%20at%2011.23.21%20PM.png)
 
 URL to the deployed site:
+https://kgarzelloni.github.io/05-work-day-scheduler/
 
 
